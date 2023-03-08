@@ -10,4 +10,4 @@ In this repository, we examine some famous computer science algorithms and imple
 
 ### List of algorithms
 
-- [Fibonacci Algorithm](https://github.com/elyaserfani/cs-algorithms-js/fibonacci)
+- [Fibonacci Algorithm](https://github.com/elyaserfani/cs-algorithms-js/tree/master/fibonacci)
